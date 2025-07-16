@@ -21,7 +21,7 @@ uv add kiteclient
 Generate a Kite User Session programmatically.
 
 ```python
-from kiteclient.sessions import KiteSessions, User, UserSession
+from kiteclient import KiteSessions, User, UserSession
 
 # Create a User
 user = User(
