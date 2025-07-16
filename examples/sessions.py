@@ -1,12 +1,9 @@
-import logging
 import os
 from pprint import pprint
 from dotenv import load_dotenv
 from kiteclient.sessions import KiteSessions, User, UserSession
 
 load_dotenv()
-
-logging.basicConfig(level=logging.INFO)
 
 # Create a User
 user = User(
