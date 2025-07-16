@@ -1,7 +1,8 @@
 # Kite Connect API Python custom client
 
-- An UNofficial Python client for communicating with the [Kite Connect API](https://kite.trade).
+- An UNofficial Python client for interacting with the [Kite Connect API](https://kite.trade).
 - Does not replicate the `kiteconnect` package functionality.
+- Provides extended functionality.
 
 ## Installing the client
 
