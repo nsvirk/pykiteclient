@@ -11,5 +11,6 @@ __author__ = "Navdeep Virk"
 __email__ = "nsvirk@gmail.com"
 
 from kiteclient.sessions import KiteSessions, User, UserSession
+from kiteclient.instruments import KiteInstruments, Instrument
 
-__all__ = ["KiteSessions", "User", "UserSession"]
+__all__ = ["KiteSessions", "User", "UserSession", "KiteInstruments", "Instrument"]
