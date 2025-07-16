@@ -6,12 +6,11 @@
 
 ## Installing the client
 
-You can install the via pip or uv (ToDo)
+### Install from github repo
 
 ```bash
-pip install kiteclient
 
-uv add kiteclient
+uv add git+https://github.com/nsvirk/pykiteclient.git
 ```
 
 ## Documentation
