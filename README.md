@@ -6,10 +6,10 @@
 
 ## Installing the client
 
-You can install the pre release via pip or uv
+You can install the via pip or uv (ToDo)
 
 ```bash
-pip install --upgrade kiteclient
+pip install kiteclient
 
 uv add kiteclient
 ```
